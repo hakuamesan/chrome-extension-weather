@@ -1,5 +1,5 @@
 {
-  "name": "Weather App4",
+  "name": "MyWeather App4",
   "version": "1.0",
   "description": "Get Weather Data!",
    "permissions": [ "https://api.openweathermap.org/", "storage", "activeTab", "geolocation" ],
